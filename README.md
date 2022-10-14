@@ -185,9 +185,9 @@ int main(void)
 {
 	
 	LCD_INIT();
-	LCD_STRING("Welcome to AI&ML");
+	LCD_STRING("Welcome to AI&DS");
 	LCD_CMD(0XC0);
-	LCD_STRING("212221240057");
+	LCD_STRING("212221230024");
 	
 	return 0;
 }
